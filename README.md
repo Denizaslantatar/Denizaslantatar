@@ -12,6 +12,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/apsisxcoder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=apsisxcoder&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/apsisxcoder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=denizaslantatar&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
